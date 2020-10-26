@@ -13,3 +13,13 @@
 ## T-Tests on Suspension Coils
 
 - Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+## Study Design: MechaCar vs Competition
+
+- Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. 
+
+- What metric or metrics are you going to test?
+- What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
+
