@@ -4,7 +4,7 @@
 
 Vehicle length and ground clearance are statistcally unlikely to provide random amount of variance to the linear model. This means smaller cars that are lower to the ground are likely to increase fuel efficiency. The slope of the linear model is not zero with a p-value of 5.35 x 10^-11. According to Pearson's correlation, the linear model predicts mpg strongly with an r-squared of 0.7149 (0.72 rounded). The use of a multiple linear regression showed variables that are more likely to be statistically significant in predicting mpg such as vehicle length and ground clearance. Variables that showed to be not significant in predicting mpg were weight, angle, and AWD.
 
-!img_1(https://github.com/jmasurovsky/MechaCar_Statistical_Analysis/blob/main/Images/regressionOutput.png)
+![img_1](https://github.com/jmasurovsky/MechaCar_Statistical_Analysis/blob/main/Images/regressionOutput.png)
 Figure 1: Regression output
 
 
@@ -18,10 +18,10 @@ Results of the individual lot summary show that lots 1 and 2 met specification g
 
 The results of the t-test performed on all manufacturing lots showed a p-value of 0.5117 which is greater than 0.05. Therefore there is not enough evidence to reject the null hypothesis that all lots are statistically different from the mean of 1,500 pounds per square inch. T-test performed on all three lots invidivually resulted in similar p-values of 2.2 x 10^-16, therefore we can accept the hypothesis that each lot is statistically different from the mean of 1,500 pounds per square inch.
 
-!img_2(https://github.com/jmasurovsky/MechaCar_Statistical_Analysis/blob/main/Images/t-test_allLots.png)
+![img_2](https://github.com/jmasurovsky/MechaCar_Statistical_Analysis/blob/main/Images/t-test_allLots.png)
 Figure 2: t-test results on all lots
 
-!img_3(https://github.com/jmasurovsky/MechaCar_Statistical_Analysis/blob/main/Images/t-test_lot1.png)
+![img_3](https://github.com/jmasurovsky/MechaCar_Statistical_Analysis/blob/main/Images/t-test_lot1.png)
 Figure 3: t-test results on lot 1 (similar p-value as lot 2 & 3 results)
 
 ## Study Design: MechaCar vs Competition
